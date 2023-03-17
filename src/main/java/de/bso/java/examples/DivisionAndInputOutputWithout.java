@@ -16,17 +16,19 @@ public class DivisionAndInputOutputWithout {
 		System.out.println("Bitte Zahl 2 eingeben:");
 		number2 = input.nextDouble();
 
-		//Hinweis für Division mit 0 ausgeben
-		System.out.println("Fehler. Der Zahl 2 darf nicht 0 sein!");
+		// wenn number2 gleich 0
+			//Hinweis für Division mit 0 ausgeben
+			System.out.println("Fehler. Der Zahl 2 darf nicht 0 sein!");
 
-		// eine Variable fuer das Ergebnis erzeugen und mit dem Wert 0 initialisieren
-		double result = 0;
+		// wenn number2 ungleich 0
+			// eine Variable fuer das Ergebnis erzeugen und mit dem Wert 0 initialisieren
+			double result = 0;
 
-		// Quotienten aus number1 und number2 ermitteln und result zuweisen
-		result = number1 / number2;
+			// Quotienten aus number1 und number2 ermitteln und result zuweisen
+			result = number1 / number2;
 
-		// Das Ergebnis ausgeben
-		System.out.println("Das Ergebnis ist: " + result);
+			// Das Ergebnis ausgeben
+			System.out.println("Das Ergebnis ist: " + result);
 
 	}
 }
