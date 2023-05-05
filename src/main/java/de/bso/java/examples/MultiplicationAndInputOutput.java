@@ -17,10 +17,10 @@ public class MultiplicationAndInputOutput {
         double result = 0;
 
         System.out.println("Bitte Zahl 1 eingeben:");
-        number1 = input.nextDouble() ;
+        number1 = input.nextDouble();
 
         System.out.println("Bitte Zahl 2 eingeben:");
-        number2 = input.nextDouble() ;
+        number2 = input.nextDouble();
 
         // Das Produkt aus number1 und number2 berechnen und der Variable result zuweisen
         result = number1 * number2;
