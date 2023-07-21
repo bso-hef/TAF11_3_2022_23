@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FRAME GUID="2FB25471-B62C-4EE6-BD43-F819C095ACF8" FORMAT="0000" APP_VERSION="2.2.0.8" CHECKSUM="0E7ABFC3C1323E1D">
+  <PROJECT FORMAT="1.00" NAME="Switch-case-Verzweigungen" AUTHOR="rrobert0306" CREATED="2023.05.05 09:03:03" MODIFIED="2023.05.07 20:58:27">
+    <DIAGRAMS>
+      <DIAGRAM FORMAT="1.00" ID="0" NAME="main" CREATED="2023.05.05 09:03:28" MODIFIED="2023.05.07 20:58:27">
+        <LAYOUT FORMAT="1.00" COLUMNS="12" ROWS="9">
+          <ENTRIES>
+            <ENTRY COLUMN="0" ROW="0" ANCHOR="True">
+              <FIGURE SUBTYPE="PapTitle" FORMAT="1.00" ID="0">
+                <TEXT><![CDATA[main]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="1">
+              <FIGURE SUBTYPE="PapStart" FORMAT="1.00" ID="1">
+                <TEXT><![CDATA[Start]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="2">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="4">
+                <TEXT><![CDATA[Geben sie einen Monat an (als Zahl 1-12)]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="3">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="6">
+                <TEXT><![CDATA[Eingabe von Zahl]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="4">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="8">
+                <TEXT><![CDATA[Prüfe Zahl]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="12">
+                <TEXT><![CDATA[case: 1]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="109">
+                <TEXT><![CDATA[Der 1. Monat ist Januar]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="41">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="8">
+              <FIGURE SUBTYPE="PapEnd" FORMAT="1.00" ID="2">
+                <TEXT><![CDATA[Ende]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="14">
+                <TEXT><![CDATA[case: 2]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="108">
+                <TEXT><![CDATA[Der 2. Monat ist Februar]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="44">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="19">
+                <TEXT><![CDATA[case: 3]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="107">
+                <TEXT><![CDATA[Der 3. Monat ist März]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="47">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="21">
+                <TEXT><![CDATA[4]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="106">
+                <TEXT><![CDATA[April]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="50">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="23">
+                <TEXT><![CDATA[5]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="105">
+                <TEXT><![CDATA[Mai]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="53">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="25">
+                <TEXT><![CDATA[6]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="104">
+                <TEXT><![CDATA[Juni]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="5" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="56">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="27">
+                <TEXT><![CDATA[7]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="103">
+                <TEXT><![CDATA[Juli]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="6" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="59">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="7" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="29">
+                <TEXT><![CDATA[8]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="7" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="102">
+                <TEXT><![CDATA[August]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="7" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="62">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="8" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="31">
+                <TEXT><![CDATA[9]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="8" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="101">
+                <TEXT><![CDATA[September]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="8" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="65">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="9" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="33">
+                <TEXT><![CDATA[10]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="9" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="100">
+                <TEXT><![CDATA[Oktober]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="9" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="68">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="10" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="35">
+                <TEXT><![CDATA[11]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="10" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="99">
+                <TEXT><![CDATA[November]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="10" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="71">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="11" ROW="5">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="37">
+                <TEXT><![CDATA[12]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="11" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="98">
+                <TEXT><![CDATA[Dezember]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="11" ROW="7">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="39">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+          </ENTRIES>
+        </LAYOUT>
+        <CONNECTIONS>
+          <CONNECTION FORMAT="1.00" ID="3" FROM="1" TO="4" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="5" FROM="4" TO="6" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="7" FROM="6" TO="8" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="42" FROM="41" TO="2" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="9" FROM="8" TO="12" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="18" FROM="12" TO="14" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="20" FROM="14" TO="19" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="22" FROM="19" TO="21" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="24" FROM="21" TO="23" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="26" FROM="23" TO="25" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="28" FROM="25" TO="27" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="30" FROM="27" TO="29" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="32" FROM="29" TO="31" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="34" FROM="31" TO="33" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="36" FROM="33" TO="35" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="38" FROM="35" TO="37" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="97" FROM="98" TO="39" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="75" FROM="109" TO="41" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="45" FROM="44" TO="41" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="48" FROM="47" TO="44" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="77" FROM="108" TO="44" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="51" FROM="50" TO="47" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="79" FROM="107" TO="47" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="54" FROM="53" TO="50" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="81" FROM="106" TO="50" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="57" FROM="56" TO="53" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="83" FROM="105" TO="53" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="60" FROM="59" TO="56" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="85" FROM="104" TO="56" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="63" FROM="62" TO="59" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="87" FROM="103" TO="59" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="66" FROM="65" TO="62" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="89" FROM="102" TO="62" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="69" FROM="68" TO="65" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="91" FROM="101" TO="65" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="72" FROM="71" TO="68" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="93" FROM="100" TO="68" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="43" FROM="39" TO="71" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="95" FROM="99" TO="71" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="13" FROM="12" TO="109" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="46" FROM="14" TO="108" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="49" FROM="19" TO="107" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="52" FROM="21" TO="106" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="55" FROM="23" TO="105" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="58" FROM="25" TO="104" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="61" FROM="27" TO="103" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="64" FROM="29" TO="102" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="67" FROM="31" TO="101" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="70" FROM="33" TO="100" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="73" FROM="35" TO="99" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="40" FROM="37" TO="98" TEXT="" />
+        </CONNECTIONS>
+      </DIAGRAM>
+    </DIAGRAMS>
+  </PROJECT>
+</FRAME>
